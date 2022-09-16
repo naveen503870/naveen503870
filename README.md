@@ -5,14 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen503870&label=Profile%20views&color=0e75b6&style=flat" alt="naveen503870" /> </p>
 
-- 🙋 Working at Publicis Groupe as **Software Developer.**
-- 🙋‍♂️ Ex Employee of InterNexus as a **Frontend Developer.**
+- 🙋 Working at Publicis Groupe as Software Developer.
+- 🙋‍♂️ Ex Employee of InterNexus as a Frontend Developer.
 - 🚀 Built Multiple Websites for Several businesses.
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning PHP.
 
-- 💬 Ask me about **HTML/CSS, Angular, React-native, Nodejs,**
+- 💬 Ask me about Angular, React-native.
 
-- 📫 How to reach me **nk738934@gmail.com**
+- 📫 How to reach me nk738934@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
