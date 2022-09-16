@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML/CSS, Angular, React-native, Nodejs,**
 
-- 📫 How to reach me **https://www.linkedin.com/in/naveen-k-a672531b4/**
+- 📫 How to reach me **nk738934@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
