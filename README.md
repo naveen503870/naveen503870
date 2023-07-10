@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen503870&label=Profile%20views&color=0e75b6&style=flat" alt="naveen503870" /> </p>
 
 - 🙋 Working at Publicis Groupe as Software Developer.
-- 🙋‍♂️ Ex Employee of InterNexus as a Frontend Developer.
+- 🙋‍♂️ Ex Employee of InterNexus.
 - 🚀 Built Multiple Websites for Several businesses.
 - 🌱 I’m currently learning PHP.
 
-- 💬 Ask me about Angular, React-native.
+- 💬 Ask me about Laravel.
 
 - 📫 How to reach me nk738934@gmail.com.
 
