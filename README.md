@@ -8,9 +8,9 @@
 - 🙋 Working at Publicis Groupe as Software Developer.
 - 🙋‍♂️ Ex Employee of InterNexus.
 - 🚀 Built Multiple Websites for Several businesses.
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning Node.js.
 
-- 💬 Ask me about Laravel.
+- 💬 Ask me about MERN + PHP(Laravel).
 
 - 📫 How to reach me nk738934@gmail.com.
 
