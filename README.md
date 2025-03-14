@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen503870&label=Profile%20views&color=0e75b6&style=flat" alt="naveen503870" /> </p>
 
-- 🙋 Working at Publicis Groupe as Software Developer.
-- 🙋‍♂️ Ex Employee of InterNexus.
+- 🙋 I am Working at Rhysley as a PHP Developer.
+- 🙋‍♂️ Ex-employee of Publicis Groupe.
 - 🚀 Built Multiple Websites for Several businesses.
 - 🌱 I’m currently learning Node.js.
 
-- 💬 Ask me about MERN + PHP(Laravel).
+- 💬 Ask me about PHP.
 
 - 📫 How to reach me nk738934@gmail.com.
 
